@@ -22,6 +22,7 @@
 		200C770A19A61C8900A0462A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 200C770819A61C8900A0462A /* InfoPlist.strings */; };
 		200C770C19A61C8900A0462A /* Academy387Day4Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 200C770B19A61C8900A0462A /* Academy387Day4Tests.m */; };
 		200C771719A621AE00A0462A /* day4AcademyAddStudentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 200C771619A621AE00A0462A /* day4AcademyAddStudentViewController.m */; };
+		2013EC2F19A78E9700DFF15A /* day4AcademyStudentsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2013EC2E19A78E9700DFF15A /* day4AcademyStudentsTableViewController.m */; };
 		2053808219A62FA8001CA612 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 2053808119A62FA8001CA612 /* Student.m */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,8 @@
 		200C770B19A61C8900A0462A /* Academy387Day4Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Academy387Day4Tests.m; sourceTree = "<group>"; };
 		200C771519A621AE00A0462A /* day4AcademyAddStudentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = day4AcademyAddStudentViewController.h; sourceTree = "<group>"; };
 		200C771619A621AE00A0462A /* day4AcademyAddStudentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = day4AcademyAddStudentViewController.m; sourceTree = "<group>"; };
+		2013EC2D19A78E9700DFF15A /* day4AcademyStudentsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = day4AcademyStudentsTableViewController.h; sourceTree = "<group>"; };
+		2013EC2E19A78E9700DFF15A /* day4AcademyStudentsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = day4AcademyStudentsTableViewController.m; sourceTree = "<group>"; };
 		2053808019A62FA8001CA612 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 		2053808119A62FA8001CA612 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -165,6 +168,8 @@
 				200C771619A621AE00A0462A /* day4AcademyAddStudentViewController.m */,
 				200C76F519A61C8900A0462A /* day4AcademyViewController.h */,
 				200C76F619A61C8900A0462A /* day4AcademyViewController.m */,
+				2013EC2D19A78E9700DFF15A /* day4AcademyStudentsTableViewController.h */,
+				2013EC2E19A78E9700DFF15A /* day4AcademyStudentsTableViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -280,6 +285,7 @@
 				200C771719A621AE00A0462A /* day4AcademyAddStudentViewController.m in Sources */,
 				2053808219A62FA8001CA612 /* Student.m in Sources */,
 				200C76F119A61C8900A0462A /* day4AcademyAppDelegate.m in Sources */,
+				2013EC2F19A78E9700DFF15A /* day4AcademyStudentsTableViewController.m in Sources */,
 				200C76F719A61C8900A0462A /* day4AcademyViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
